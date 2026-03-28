@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Civilian",
+    "movement": 2,
+    "uniques": ["Cannot attack", "May be captured"]
+  },
+  {
+    "name": "Recon",
+    "movement": 2,
+    "uniques": ["Ignore terrain cost"]
+  },
+  {
+    "name": "Melee",
+    "movement": 2
+  },
+  {
+    "name": "Ranged",
+    "movement": 2,
+    "uniques": ["Ranged attack"]
+  }
+]

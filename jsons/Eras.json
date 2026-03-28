@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Ère des Monstres",
+    "baseUnitBuyCost": 200,
+    "baseBuildingBuyCost": 200,
+    "startEraVictoryPoints": 0,
+    "uniques": ["No [Great Person] can be born"]
+  },
+  {
+    "name": "Ère de l'Éveil",
+    "baseUnitBuyCost": 400,
+    "baseBuildingBuyCost": 400,
+    "startEraVictoryPoints": 10,
+    "uniques": ["[+1] [Great Person] points [dans toutes les villes]"]
+  },
+  {
+    "name": "Ère des Rois Démons",
+    "baseUnitBuyCost": 800,
+    "baseBuildingBuyCost": 800,
+    "startEraVictoryPoints": 25,
+    "uniques": ["[+2] [Great Person] points [dans toutes les villes]", "[+20]% [Force de combat] [pour toutes les unités]"]
+  },
+  {
+    "name": "Ère de la Divinité",
+    "baseUnitBuyCost": 1500,
+    "baseBuildingBuyCost": 1500,
+    "startEraVictoryPoints": 50,
+    "uniques": ["[+5] [Great Person] points [dans toutes les villes]", "[+50]% [Force de combat] [pour toutes les unités]"]
+  }
+]

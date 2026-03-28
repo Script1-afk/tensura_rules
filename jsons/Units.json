@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Colon",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 100,
+    "uniques": ["Found City", "May buy units with [Gold] for [1] times their cost", "Can only be built when city has [2] population"]
+  },
+  {
+    "name": "Ouvrier",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 70,
+    "uniques": ["Can build [Tile Improvement] improvements"]
+  },
+  {
+    "name": "Éclaireur",
+    "unitType": "Recon",
+    "movement": 2,
+    "strength": 5,
+    "cost": 25,
+    "uniques": ["May upgrade to [Guerrier] through ruins", "Ignore terrain cost"]
+  },
+  {
+    "name": "Guerrier",
+    "unitType": "Melee",
+    "movement": 2,
+    "strength": 8,
+    "cost": 40
+  },
+  {
+    "name": "Archer",
+    "unitType": "Ranged",
+    "movement": 2,
+    "strength": 5,
+    "rangedStrength": 7,
+    "cost": 40,
+    "requiredTech": "Compétences de Combat"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Magie de Base",
+    "cost": 20,
+    "era": "Ère des Monstres",
+    "uniques": ["[+1] [Science] [dans toutes les villes]"]
+  },
+  {
+    "name": "Compétences de Combat",
+    "cost": 20,
+    "era": "Ère des Monstres",
+    "uniques": ["[+10]% [Force de combat] [pour toutes les unités]"]
+  },
+  {
+    "name": "Évolution des Monstres",
+    "cost": 50,
+    "era": "Ère des Monstres",
+    "requirements": ["Magie de Base"],
+    "uniques": ["[+1] [Production] [dans toutes les villes]"]
+  },
+  {
+    "name": "Compétences Uniques",
+    "cost": 150,
+    "era": "Ère de l'Éveil",
+    "requirements": ["Évolution des Monstres"],
+    "uniques": ["[+2] [Science] [dans toutes les villes]"]
+  },
+  {
+    "name": "Compétences Ultimes",
+    "cost": 500,
+    "era": "Ère des Rois Démons",
+    "requirements": ["Compétences Uniques"],
+    "uniques": ["[+5] [Science] [dans toutes les villes]", "[+20]% [Force de combat] [pour toutes les unités]"]
+  },
+  {
+    "name": "Divinité",
+    "cost": 2000,
+    "era": "Ère de la Divinité",
+    "requirements": ["Compétences Ultimes"],
+    "uniques": ["[+10] [Science] [dans toutes les villes]", "[+50]% [Force de combat] [pour toutes les unités]"]
+  }
+]
